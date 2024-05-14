@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.weatherapp_md.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.example.weatherapp_md.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.weatherapp_md.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.example.weatherapp_md.app-main-48:/layout/fragment_home.xml"
+    }
+]
